@@ -1,4 +1,3 @@
-# Student_performance
 # 🎓 Student Performance Prediction using Linear Regression
 
 This project implements a simple linear regression model to predict a student's **Performance Index** based on various academic and lifestyle factors using **scikit-learn**'s `SGDRegressor`.
